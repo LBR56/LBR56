@@ -10,3 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LBR56)](https://github.com/LBR56/github-readme-stats)
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LBR56&show_icons=true&theme=gotham" alt="LBR56" />
