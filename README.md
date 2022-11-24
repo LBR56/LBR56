@@ -44,4 +44,5 @@ if __name__ == '__main__':
 
 Ref
 
-[durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates)
+- [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates)
+- [icon](https://simpleicons.org/)
