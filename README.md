@@ -40,8 +40,6 @@ if __name__ == '__main__':
 </p>
 <br>
 
-![LBR56' Activity Graph](https://activity-graph.herokuapp.com/graph?username=LBR56&custom_title=LBR56%20Trips's%20Contribution%20Graph&theme=gruvbox&&hide_border=true&line=d1a01f&point=c58545)
-
 ------
 
 Ref
